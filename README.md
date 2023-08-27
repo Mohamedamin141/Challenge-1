@@ -42,3 +42,5 @@ THEN I find a concise, descriptive title
 
 # Css
 1. make sure the styling looks like the mockup Image.
+1. make sure the  CSS selectors and properties follow sementic structure
+1. make sure the CSS file is commented 
